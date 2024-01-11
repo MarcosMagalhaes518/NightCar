@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: black;
+}
+
+.logo {
+    text-align: center;
+    
+}
+
+a {
+    color: white;
+    background: transparent;
+}
+
+
+section {
+    display: flex;
+    justify-content: space-around;
+    background: red;
+}
